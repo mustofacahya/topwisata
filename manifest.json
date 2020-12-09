@@ -1,7 +1,7 @@
 {
   "name": "Topwisata PWA",
   "short_name": "Topwisata",
-  "start_url": "https://shy-limit-1c4c.topwisata.workers.dev/",
+  "start_url": "https://shy-limit-1c4c.topwisata.workers.dev/?source=pwa",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
