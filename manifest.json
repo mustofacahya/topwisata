@@ -1,0 +1,38 @@
+{
+  "name": "Topwisata.info",
+  "short_name": "Topwisata",
+  "start_url": "Topwisata.info",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Mengulas tuntas wisata-wisata Indonesia. Seputar tips wisata, harga tiket masuk, wahana, wisata terdekat, wisata anak, serta referensi penginapan.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GXnKS6HwOCY/X9C570DvX3I/AAAAAAAB70Q/xv8Aq-1l-qkqKA_wP5bh6zW76SyYpv58ACLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/--Ut0q5fcrMI/X9C58FGAq5I/AAAAAAAB70U/wW618XnAkJQZzbN0EZwbye-79TQI9su9QCLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-carq4Vx5MjY/X9C58dQIQII/AAAAAAAB70Y/vnF03P8XegYtmb68e200ioD0bAa1azn1wCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-PG23elASeg0/X9C57JwjnZI/AAAAAAAB70E/k3iHjwNUKY0qx5G9nmYSTclNxUs0AR13ACLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Z-ZeG0wFwcg/X9C5839lZRI/AAAAAAAB70g/U8cOPnRAPcoK3tPPNO3UuiMWW59ilu7IACLcBGAsYHQ/s120/apple-icon-120x120.png",
+    "sizes": "120x120",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-KyFkXdgfoGY/X9C57TEELUI/AAAAAAAB70M/C9FcDndJPz09KWj60NMFcs8zgxBfMYkQQCLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-qbodh8Lcwcc/X9C59vqDyZI/AAAAAAAB70s/JADj28glqmgar1BQA0a8rxr62cbEprEWACLcBGAsYHQ/s180/apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }]
+}
