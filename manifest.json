@@ -36,23 +36,3 @@
     "type": "image/png"
   }]
 }
-{
-  …
-  "icons": [
-    …
-    {
-      "src": "https://1.bp.blogspot.com/-RhOV80lET-g/X9C5-21DKoI/AAAAAAAB71E/vCz0EhA9leE4u5NMJQWOAwVdeBoX7FQfwCLcBGAsYHQ/s192/apple-icon.png",
-      "sizes": "196x196",
-      "type": "image/png",
-      "purpose": "any"
-    },
-    {
-      "src": "https://1.bp.blogspot.com/-RhOV80lET-g/X9C5-21DKoI/AAAAAAAB71E/vCz0EhA9leE4u5NMJQWOAwVdeBoX7FQfwCLcBGAsYHQ/s192/apple-icon.png",
-      "sizes": "196x196",
-      "type": "image/png",
-      "purpose": "maskable" // <-- New property value `"maskable"`
-    },
-    …
-  ],
-  …
-}
