@@ -1,7 +1,7 @@
 {
   "name": "Topwisata.info",
   "short_name": "Topwisata",
-  "start_url": "www.topwisata.info/?m=1",
+  "start_url": "https:\/\/www.topwisata.info\/?m=1",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
