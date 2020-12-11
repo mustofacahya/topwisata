@@ -1,7 +1,7 @@
 {
   "name": "Topwisata PWA",
   "short_name": "Topwisata",
-  "start_url": "/",
+  "start_url": "https://www.topwisata.info/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
@@ -27,12 +27,12 @@
     "sizes": "120x120",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-RhOV80lET-g/X9C5-21DKoI/AAAAAAAB71E/vCz0EhA9leE4u5NMJQWOAwVdeBoX7FQfwCLcBGAsYHQ/s192/apple-icon.png",
-    "sizes": "192x192",
+    "src": "https://1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png",
+    "sizes": "196x196",
     "type": "image/png"
   },  {
       "src": "https://1.bp.blogspot.com/-5u1kzpD0hNo/X9N7iSV6uVI/AAAAAAAB79E/GT9BjmfY2fwrhufRDkfQbXOWvTR2tHJjQCLcBGAsYHQ/s320/maskable_icon.png",
-      "sizes": "196x196",
+      "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
     },
