@@ -1,10 +1,10 @@
 {
   "name": "Topwisata PWA",
   "short_name": "Topwisata",
-  "start_url": "https://www.topwisata.info/",
-  "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#2B0C93",
+  
+ 
+  
+ 
   "description": "Mengulas tuntas wisata-wisata Indonesia. Seputar tips wisata, harga tiket masuk, wahana, wisata terdekat, wisata anak, serta referensi penginapan.",
   "icons": [{
     "src": "https://1.bp.blogspot.com/-GXnKS6HwOCY/X9C570DvX3I/AAAAAAAB70Q/xv8Aq-1l-qkqKA_wP5bh6zW76SyYpv58ACLcBGAsYHQ/s48/android-icon-48x48.png",
@@ -41,4 +41,26 @@
     "sizes": "512x512",
     "type": "image/png"
   }]
+}
+"start_url": "https://www.topwisata.info/",
+ "background_color": "#fff",
+  "display": "standalone",
+  "scope": "https://www.topwisata.info/",
+ "theme_color": "#2B0C93",
+  "shortcuts": [
+    {
+      "name": "How's weather today?",
+      "short_name": "Today",
+      "description": "View weather information for today",
+      "url": "https://www.topwisata.info/",
+      "icons": [{ "src": "https://1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "How's weather tomorrow?",
+      "short_name": "Tomorrow",
+      "description": "View weather information for tomorrow",
+      "url": "https://www.topwisata.info/",
+      "icons": [{ "src": "https://1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png", "sizes": "192x192" }]
+    }
+  ]
 }
