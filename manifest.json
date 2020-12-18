@@ -1,7 +1,7 @@
 {
   "name": "Topwisata PWA",
   "short_name": "Topwisata",
-  "start_url": "/",
+  "start_url": "https://www.topwisata.info/",
   "scope": "https://www.topwisata.info/",
   "display": "standalone",
   "background_color": "#fff",
