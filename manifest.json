@@ -2,7 +2,7 @@
   "name": "Topwisata PWA",
   "short_name": "Topwisata",
   "start_url": "/",
-  "scope": "https://shy-limit-1c4c.topwisata.workers.dev/",
+  "scope": "https://www.topwisata.info/",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
