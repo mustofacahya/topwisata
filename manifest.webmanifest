@@ -17,7 +17,7 @@
   "start_url": "https://www.topwisata.info/",
   "background_color": "#3367D6",
   "display": "standalone",
-  "scope": "/",
+  "scope": "https://shy-limit-1c4c.topwisata.workers.dev/",
   "theme_color": "#3367D6",
   "shortcuts": [
     {
