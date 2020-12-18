@@ -24,14 +24,14 @@
       "name": "How's weather today?",
       "short_name": "Today",
       "description": "View weather information for today",
-      "url": "/today?source=pwa",
+      "url": "https://www.topwisata.info/p/blog-page.html",
       "icons": [{ "src": "https://1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png", "sizes": "192x192" }]
     },
     {
       "name": "How's weather tomorrow?",
       "short_name": "Tomorrow",
       "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
+      "url": "https://www.topwisata.info/p/blog-page.html",
       "icons": [{ "src": "https://1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png", "sizes": "192x192" }]
     }
   ]
