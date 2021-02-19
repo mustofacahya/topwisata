@@ -8,37 +8,37 @@
   "theme_color": "#2B0C93",
   "description": "Mengulas tuntas wisata-wisata Indonesia. Seputar tips wisata, harga tiket masuk, wahana, wisata terdekat, wisata anak, serta referensi penginapan.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-GXnKS6HwOCY/X9C570DvX3I/AAAAAAAB70Q/xv8Aq-1l-qkqKA_wP5bh6zW76SyYpv58ACLcBGAsYHQ/s48/android-icon-48x48.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-GXnKS6HwOCY/X9C570DvX3I/AAAAAAAB70Q/xv8Aq-1l-qkqKA_wP5bh6zW76SyYpv58ACLcBGAsYHQ/s48/android-icon-48x48.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/--Ut0q5fcrMI/X9C58FGAq5I/AAAAAAAB70U/wW618XnAkJQZzbN0EZwbye-79TQI9su9QCLcBGAsYHQ/s72/android-icon-72x72.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/--Ut0q5fcrMI/X9C58FGAq5I/AAAAAAAB70U/wW618XnAkJQZzbN0EZwbye-79TQI9su9QCLcBGAsYHQ/s72/android-icon-72x72.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-carq4Vx5MjY/X9C58dQIQII/AAAAAAAB70Y/vnF03P8XegYtmb68e200ioD0bAa1azn1wCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-carq4Vx5MjY/X9C58dQIQII/AAAAAAAB70Y/vnF03P8XegYtmb68e200ioD0bAa1azn1wCLcBGAsYHQ/s96/android-icon-96x96.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-PG23elASeg0/X9C57JwjnZI/AAAAAAAB70E/k3iHjwNUKY0qx5G9nmYSTclNxUs0AR13ACLcBGAsYHQ/s144/android-icon-144x144.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-PG23elASeg0/X9C57JwjnZI/AAAAAAAB70E/k3iHjwNUKY0qx5G9nmYSTclNxUs0AR13ACLcBGAsYHQ/s144/android-icon-144x144.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-Z-ZeG0wFwcg/X9C5839lZRI/AAAAAAAB70g/U8cOPnRAPcoK3tPPNO3UuiMWW59ilu7IACLcBGAsYHQ/s120/apple-icon-120x120.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-Z-ZeG0wFwcg/X9C5839lZRI/AAAAAAAB70g/U8cOPnRAPcoK3tPPNO3UuiMWW59ilu7IACLcBGAsYHQ/s120/apple-icon-120x120.png",
     "sizes": "120x120",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-gftquuIV6Zs/X9N8mjcdwDI/AAAAAAAB79Q/yhXMhcypdbwRnfAZ7Zkoon7ayXkizawggCLcBGAsYHQ/s320/apple-icon%255B1%255D.png",
     "sizes": "196x196",
     "type": "image/png"
   },  {
-      "src": "https://1.bp.blogspot.com/-5u1kzpD0hNo/X9N7iSV6uVI/AAAAAAAB79E/GT9BjmfY2fwrhufRDkfQbXOWvTR2tHJjQCLcBGAsYHQ/s320/maskable_icon.png",
+      "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-5u1kzpD0hNo/X9N7iSV6uVI/AAAAAAAB79E/GT9BjmfY2fwrhufRDkfQbXOWvTR2tHJjQCLcBGAsYHQ/s320/maskable_icon.png",
       "sizes": "320x320",
       "type": "image/png",
       "purpose": "maskable"
     },
             {
-    "src": "https://1.bp.blogspot.com/-0aOCOXTYNLQ/X9DDSmdVnDI/AAAAAAAB71o/bOr8ImO9cusHiuykm86hj0x64kwCQzlHQCLcBGAsYHQ/s512/ms-icon-310x310%2B%25281%2529.png",
+    "src": "https://cdn.statically.io/img/1.bp.blogspot.com/-0aOCOXTYNLQ/X9DDSmdVnDI/AAAAAAAB71o/bOr8ImO9cusHiuykm86hj0x64kwCQzlHQCLcBGAsYHQ/s512/ms-icon-310x310%2B%25281%2529.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
