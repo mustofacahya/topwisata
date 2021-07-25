@@ -97,42 +97,6 @@ window.onclick = function(t) {
             n.callBack()
         }
     };
-    randomRelatedIndex = c,
-    showRelatedPost = d,
-    l(n.homePage.replace(/\/$/, "") + "/feeds/posts/summary" + r + "?alt=json-in-script&orderby=updated&max-results=0&callback=randomRelatedIndex")
-}(window, document, document.getElementsByTagName("head")[0]);
-for (var imgEl = document.querySelectorAll(".post-body img"), i = 0; i < imgEl.length; i++)
-    imgEl[i].getAttribute("src") && (imgEl[i].setAttribute("data-src", imgEl[i].getAttribute("src")),
-    imgEl[i].removeAttribute("src"),
-    imgEl[i].className += " lazyload");
-!function(t, e) {
-    var a = e(t, t.document);
-    t.lazySizes = a,
-    "object" == typeof module && module.exports && (module.exports = a)
-}("undefined" != typeof window ? window : {}, function(t, e) {
-    "use strict";
-    var a, n;
-    if (function() {
-        var e, a = {
-            lazyClass: "lazyload",
-            loadedClass: "lazyloaded",
-            loadingClass: "lazyloading",
-            preloadClass: "lazypreload",
-            errorClass: "lazyerror",
-            autosizesClass: "lazyautosizes",
-            srcAttr: "data-src",
-            srcsetAttr: "data-srcset",
-            sizesAttr: "data-sizes",
-            minSize: 40,
-            customMedia: {},
-            init: !0,
-            expFactor: 1.5,
-            hFac: .8,
-            loadMode: 2,
-            loadHidden: !0,
-            ricTimeout: 0,
-            throttleDelay: 125
-        };
         n = t.lazySizesConfig || t.lazysizesConfig || {};
         for (e in a)
             e in n || (n[e] = a[e])
