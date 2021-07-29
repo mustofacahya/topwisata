@@ -1,0 +1,16 @@
+{
+  "name": "@ampproject/cloudflare-amp-optimizer",
+  "version": "0.1.0",
+  "description": "A Cloudflare Worker AMP Optimizer",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "wrangler dev --env=dev",
+    "beta": "wrangler publish --env=beta",
+    "prod": "wrangler publish --env=prod"
+  },
+  "author": "AMPHTML Team",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@ampproject/cloudflare-optimizer-scripts": "2.8.3"
+  }
+}
