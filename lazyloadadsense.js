@@ -1,1 +1,1 @@
-(function () { var script = document.createElement('script'); script.src = "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8656293326732758?t=" + ((d = new Date()) ? '' + d.getUTCFullYear() + d.getUTCMonth() + d.getUTCDate() + d.getUTCHours() : ''); script.async = true; document.body.appendChild(script); })();
+(function () { var script = document.createElement('script'); script.src = "//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8656293326732758; script.async = true; document.body.appendChild(script); })();
